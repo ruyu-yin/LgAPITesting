@@ -1,0 +1,2 @@
+# LgAPITesting
+Api auto testing
